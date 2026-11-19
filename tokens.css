@@ -1,21 +1,23 @@
 /* Hallmark 2.0.0 | custom editorial | SHANA */
- /* critique: darker blue carries text; champagne is used for surfaces and accents. */
+ /* critique: ink green leads; parchment, bronze and a muted seal red recall the business-card palette. */
 :root {
-  --paper: #f7f4ef;
-  --white: #fefdfa;
-  --linen: #eee8dd;
-  --blue-paper: #e4ebee;
-  --gold: #d6c5a5;
-  --slate: #738696;
-  --slate-light: #afbec7;
-  --navy: #334c5d;
-  --ink: #30343a;
-  --muted: #505d63;
-  --line: #d9d0c1;
-  --focus: #416a9c;
+  --paper: #faf5ec;
+  --white: #fffcf6;
+  --linen: #f2e8d7;
+  --blue-paper: #e8ede5;
+  --gold: #d5b782;
+  --slate: #637d76;
+  --slate-light: #c1d1c7;
+  --navy: #284840;
+  --ink: #2b302b;
+  --muted: #4d5951;
+  --line: #d7c8ad;
+  --focus: #68483b;
   --display: Georgia, "Noto Serif TC", "Songti TC", "PMingLiU", serif;
   --body: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  --accent: #8b4c40;
+  --watercolor: url("./shana-watercolor.webp");
+  --frame: #e9dbc4;
   --measure: 1190px;
   --radius: 8px;
 }
-

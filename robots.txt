@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chou-shana.github.io/shana-web/sitemap.xml

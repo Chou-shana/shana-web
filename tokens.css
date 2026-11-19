@@ -1,0 +1,21 @@
+/* Hallmark 2.0.0 | custom editorial | SHANA */
+ /* critique: darker blue carries text; champagne is used for surfaces and accents. */
+:root {
+  --paper: #f7f4ef;
+  --white: #fefdfa;
+  --linen: #eee8dd;
+  --blue-paper: #e4ebee;
+  --gold: #d6c5a5;
+  --slate: #738696;
+  --slate-light: #afbec7;
+  --navy: #334c5d;
+  --ink: #30343a;
+  --muted: #505d63;
+  --line: #d9d0c1;
+  --focus: #416a9c;
+  --display: Georgia, "Noto Serif TC", "Songti TC", "PMingLiU", serif;
+  --body: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  --measure: 1190px;
+  --radius: 8px;
+}
+
